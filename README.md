@@ -9,3 +9,4 @@ Projeto Spring Boot gerado automaticamente com a estrutura mínima para a Etapa 
 4. Endpoints de exemplo:
    GET  /api/produtos
    POST /api/produtos
+# cosmeticos-web
