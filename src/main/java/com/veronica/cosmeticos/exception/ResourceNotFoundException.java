@@ -1,0 +1,7 @@
+package com.veronica.cosmeticos.exception;
+
+public class ResourceNotFoundException extends RuntimeException {
+    public ResourceNotFoundException(String msg) {
+        super(msg);
+    }
+}
